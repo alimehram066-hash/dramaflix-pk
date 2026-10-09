@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dramaflix.is-a.dev/sitemap.xml
